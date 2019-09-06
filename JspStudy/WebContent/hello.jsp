@@ -1,5 +1,5 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
-    pageEncoding="UTF-8"%>
+    pageEncoding="UTF-8"%> 
 <!DOCTYPE html>
 <html>
 	<head>
@@ -15,6 +15,6 @@
 			out.println("<h1>"+str+"</h1>");	//
 			//document.write("str=> " +str);		//자바스크립트
 		%>
-		
+		<%=str %>
 	</body>
 </html>
