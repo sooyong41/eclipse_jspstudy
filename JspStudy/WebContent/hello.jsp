@@ -16,6 +16,6 @@
 			//document.write("str=> " +str);		//자바스크립트
 		%>
 		<hr>
-		str의 값출력<%=str %>
+		str의 값출력 =<%=str %>
 	</body>
 </html>
