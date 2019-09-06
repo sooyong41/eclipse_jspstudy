@@ -15,6 +15,7 @@
 			out.println("<h1>"+str+"</h1>");	//
 			//document.write("str=> " +str);		//자바스크립트
 		%>
-		<%=str %>
+		<hr>
+		str의 값출력<%=str %>
 	</body>
 </html>
